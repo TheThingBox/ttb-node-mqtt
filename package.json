@@ -1,0 +1,14 @@
+{
+	"name": "ttb-node-mqtt",
+	"version": "1.0.2",
+	"description": "This node is a dynamic version of the basic mqtt node from Node-RED",
+	"node-red": {
+		"nodes": {
+			"input-mqtt": "input-mqtt.js"
+		}
+	},
+	"dependencies": {
+		"mqtt": "1.11.2",
+		"is-utf8": "0.2.1"
+	}
+}

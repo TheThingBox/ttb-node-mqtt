@@ -1,2 +1,3 @@
 # ttb-node-mqtt
-A Node-RED node for TheTingBox
+
+This node is a dynamic version of the basic mqtt node from Node-RED
