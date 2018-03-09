@@ -1,0 +1,29 @@
+{
+    "input-mqtt": {
+        "server": "Serveur",
+        "port": "Port",
+        "clientid": "ID du client",
+        "keepalive": "Conserver (sec)",
+        "cleansession": "Utiliser une nouvelle session",
+        "compatmode": "Utiliser le mode de compatibilité legacyMQTT 3.1",
+        "topic" : "Topic",
+        "qos": "QoS",
+        "retain": "Retenir",
+        "username": "Utilisateur",
+        "password": "Mot de passe",
+        "name": "Nom",
+        "tabs-label": {
+            "broker": "Broker",
+            "topic": "Topic",
+            "options": "Options",
+            "credentials": "Identification",
+            "name": "Nom"
+        },
+        "inputs": {
+            "setBy": "utiliser",
+            "number" : "nombre",
+            "auto": "automatique",
+            "none": "aucun"
+        }
+    }
+}
